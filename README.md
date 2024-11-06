@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo analizar el tráfico web utilizando Power BI. 
 - **traffic_web_data.xlsx**: Conjunto de datos de tráfico web en formato Excel utilizado en el análisis.
 
 ## Gráficos y Métricas Principales
-1. **Tasa de Visitas por Usuario Único**: Muestra cómo los usuarios interactúan con el sitio web.
+1. **Tasa de visitas por usuario único**: Muestra cómo los usuarios interactúan con el sitio web.
 2. **Conversiones por Región**: Analiza las conversiones en diferentes regiones.
 3. **Promedio de Sesión**: Calcula la duración promedio de la sesión de los usuarios.
 
@@ -25,5 +25,5 @@ Este proyecto tiene como objetivo analizar el tráfico web utilizando Power BI. 
 ## Contribuciones
 Este proyecto está abierto para contribuciones. Si tienes alguna sugerencia o mejora, no dudes en crear un *pull request*.
 
-##
-Sin licencia.
+## Licencia
+No posee. Contactame para más informacion de uso.
